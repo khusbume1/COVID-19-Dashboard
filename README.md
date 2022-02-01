@@ -1,1 +1,2 @@
-# COVID-19-Dashboard
+#  Automated COVID-19-Dashboard
+# Daily and Weekly
